@@ -1,1 +1,0 @@
-Aplicativo de fuerza de ventas móviles.
